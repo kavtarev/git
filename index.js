@@ -1,4 +1,4 @@
-let a
+let a = 23
 let c
 let b
 let d = 10
