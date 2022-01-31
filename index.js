@@ -1,3 +1,10 @@
-let a = 23
+let os = require('os')
+let a
 let c
-let d = 34
+let b
+let d = 10
+
+console.log(os.freemem())
+console.log(os.platform())
+console.log(os.uptime())
+console.log(os.totalmem())
